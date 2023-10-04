@@ -1,2 +1,6 @@
 # firstdemo
-This is my first github repo
+This is my first github reposotory.
+i am student.
+Author-radhika
+
+
